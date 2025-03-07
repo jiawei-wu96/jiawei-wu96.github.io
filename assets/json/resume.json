@@ -72,6 +72,13 @@
   ],
   "publications": [
     {
+      "name": "String commitment from unstructured noisy channels",
+      "publisher": "ArXiv",
+      "releaseDate": "2025-01",
+      "url": "https://arxiv.org/abs/2501.00281",
+      "summary": "Design string commitment with noisy channels in presence of a strong adversary."
+    },
+    {
       "name": "On the composable security of weak coin flipping",
       "publisher": "ArXiv",
       "releaseDate": "2023-06",
